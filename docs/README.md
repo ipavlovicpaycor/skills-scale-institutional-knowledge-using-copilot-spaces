@@ -1,6 +1,6 @@
 # OctoAcme Project Management Docs
 
-This repository centralizes OctoAcme project management process documentation for use with Copilot Spaces. Program process documents are stored in `docs/` and issue templates are stored in `.github/ISSUE_TEMPLATE`.
+This repository centralizes OctoAcme project management process documentation for use with Copilot Spaces. Project process documents are stored in `docs/` and issue templates are stored in `.github/ISSUE_TEMPLATE`.
 
 ## OctoAcme Project Management Process Summary
 
