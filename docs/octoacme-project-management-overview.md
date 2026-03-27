@@ -19,6 +19,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- UX Designer: defines user journeys, wireframes, and ensures accessibility.
+- Business Analyst (BA): refines business requirements and maps processes.
+- Release Manager: owns release planning and deployment readiness.
+- Support / Customer Success: represents users and manages incidents.
+- Security Liaison: coordinates security reviews and triage.
+- Data Analyst: defines metrics and analyzes outcomes.
 
 ## Key Artifacts
 - Project Charter / One-pager
